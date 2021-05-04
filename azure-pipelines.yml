@@ -15,4 +15,4 @@ steps:
     script: |
       javac Add.java
      
-      java Sample
+      java Add
